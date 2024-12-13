@@ -3,15 +3,21 @@
 An App For teaching students how to show their work on math problems
 
 Deno 2.1.3
+
 v8 13.0.245.12-rusty
+
 typescript 5.6.2
+
 React 19.0.0
+
 NextJS 15.0.4
 
 ## Todo
 
-[ ] Display Addition Questions
-[ ] Step by Step Addition Questions
+- [*] Create Frontpage
+- [ ] Generate Addition Questions
+- [ ] Display Addition Questions
+- [ ] Step by Step Addition Questions
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
