@@ -14,7 +14,7 @@ NextJS 15.0.4
 
 ## Todo
 
-- [*] Create Frontpage
+- [x] Create Frontpage
 - [ ] Generate Addition Questions
 - [ ] Display Addition Questions
 - [ ] Step by Step Addition Questions
